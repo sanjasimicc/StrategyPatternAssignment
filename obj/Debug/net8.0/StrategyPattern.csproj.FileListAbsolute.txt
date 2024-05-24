@@ -1,0 +1,14 @@
+/home/sigmoid/Desktop/Praksa/StrategyPattern/bin/Debug/net8.0/StrategyPattern
+/home/sigmoid/Desktop/Praksa/StrategyPattern/bin/Debug/net8.0/StrategyPattern.deps.json
+/home/sigmoid/Desktop/Praksa/StrategyPattern/bin/Debug/net8.0/StrategyPattern.runtimeconfig.json
+/home/sigmoid/Desktop/Praksa/StrategyPattern/bin/Debug/net8.0/StrategyPattern.dll
+/home/sigmoid/Desktop/Praksa/StrategyPattern/bin/Debug/net8.0/StrategyPattern.pdb
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfoInputs.cache
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfo.cs
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.dll
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/refint/StrategyPattern.dll
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
+/home/sigmoid/Desktop/Praksa/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll
